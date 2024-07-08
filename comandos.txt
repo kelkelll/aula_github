@@ -1,0 +1,7 @@
+Configuração
+git config user.name "kel"
+git config user.email 
+git init
+add arquivos 
+git commit -m "Primeiro Commit"
+add repo remoto(https://github.com/kelkelll/aula_github.git)
